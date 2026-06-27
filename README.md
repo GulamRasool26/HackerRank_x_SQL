@@ -1,51 +1,64 @@
-# HackerRank_x_SQL
-# SQL Practice – HackerRank Solutions
----------------------------------------------
+# HackerRank SQL Practice
 
-This repository contains my solutions to SQL challenges from HackerRank. The purpose of this repository is to strengthen my SQL skills through consistent practice and problem-solving.
+## SQL Practice for My Data Analyst Journey
+
+This repository contains my solutions to HackerRank SQL challenges and reflects my ongoing effort to build a strong foundation in SQL for a career in data analytics. Each solution demonstrates practical problem-solving, logical thinking, and the core querying skills needed for data analysis, reporting, and business insights.
+
+## Why This Repository Matters
+
+This project is part of my continuous learning path as I develop the technical skills required for data-driven roles. It highlights my commitment to:
+
+- practicing SQL consistently
+- solving real-world style database problems
+- improving query writing and optimization
+- strengthening analytical thinking for data interpretation
+
+## Skills Demonstrated
+
+Through these exercises, I have practiced and strengthened skills such as:
+
+- Data retrieval and filtering
+- Aggregation and summarization
+- Sorting and grouping
+- Joins and relational logic
+- Subqueries and conditional logic
+- String functions and data transformation
+- Problem-solving for reporting and analytics tasks
 
 ## Topics Covered
 
 - Basic Select Queries
 - Filtering and Sorting
 - Aggregations
-- Subqueries
+- Joins and Subqueries
 - String Functions
+- Conditional Logic and Reporting
 
-## Goals
+## Repository Structure
 
-- Improve SQL problem-solving skills
-- Practice writing efficient queries
-- Build a strong foundation in database concepts
-- Prepare for technical interviews and data-related roles
+Each SQL file includes:
 
-## Structure
+- the HackerRank problem statement in comments
+- a SQL solution
+- a descriptive filename based on the problem topic
 
-Each file contains:
-- Problem Statement
-- SQL solution
+Examples include:
+- [city_american_population_gt_100000.sql](city_american_population_gt_100000.sql)
+- [station_city_names_starting_with_vowels.sql](station_city_names_starting_with_vowels.sql)
+- [binary_tree_nodes.sql](binary_tree_nodes.sql)
+- [the_report.sql](the_report.sql)
 
 ## Platform
 
-Problems are sourced from HackerRank's SQL track:
+These problems are sourced from HackerRank's SQL practice track:
 https://www.hackerrank.com/domains/sql
-
-## Skills Demonstrated
-
-- SQL Query Writing
-- Data Retrieval and Filtering
-- Data Aggregation
-- Subqueries
-- JOINS
-- Analytical Thinking
-- Database Fundamentals
 
 ## Progress
 
-I regularly update this repository as I complete new SQL challenges and learn advanced concepts.
+I continue to update this repository as I solve new challenges and deepen my SQL knowledge. This work reflects my dedication to growing as a data analyst and building a strong technical portfolio.
 
 ---
 
 **Author:** Gulam Rasool  
-**LinkedIn:** [www.linkedin.com/in/gulam-rasool2026]  
-**GitHub:** [www.github.com/GulamRasool26]
+**LinkedIn:** [www.linkedin.com/in/gulam-rasool2026](https://www.linkedin.com/in/gulam-rasool2026)  
+**GitHub:** [www.github.com/GulamRasool26](https://github.com/GulamRasool26)
