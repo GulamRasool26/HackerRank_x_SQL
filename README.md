@@ -36,6 +36,7 @@ https://www.hackerrank.com/domains/sql
 - Data Retrieval and Filtering
 - Data Aggregation
 - Subqueries
+- JOINS
 - Analytical Thinking
 - Database Fundamentals
 
