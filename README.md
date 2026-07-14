@@ -2,16 +2,17 @@
 
 ## SQL Practice for My Data Analyst Journey
 
-This repository contains my solutions to HackerRank SQL challenges and reflects my ongoing effort to build a strong foundation in SQL for a career in data analytics. Each solution demonstrates practical problem-solving, logical thinking, and the core querying skills needed for data analysis, reporting, and business insights.
+This repository contains my complete solutions to 58 HackerRank SQL challenges, with properly named SQL files and a focus on advanced joins and relational techniques where appropriate. These solutions reflect my commitment to mastering SQL for data analytics, reporting, and relational problem solving.
 
 ## Why This Repository Matters
 
-This project is part of my continuous learning path as I develop the technical skills required for data-driven roles. It highlights my commitment to:
+This project is part of my continuous learning path toward a data analyst career. It highlights my commitment to:
 
 - practicing SQL consistently
-- solving real-world style database problems
-- improving query writing and optimization
-- strengthening analytical thinking for data interpretation
+- solving a full set of HackerRank SQL problems
+- using joins, subqueries, and advanced query patterns effectively
+- improving query readability and correctness
+- strengthening analytical thinking for real data challenges
 
 ## Skills Demonstrated
 
@@ -20,9 +21,10 @@ Through these exercises, I have practiced and strengthened skills such as:
 - Data retrieval and filtering
 - Aggregation and summarization
 - Sorting and grouping
-- Joins and relational logic
+- Joins and advanced relational logic
 - Subqueries and conditional logic
 - String functions and data transformation
+- Recursive queries and self-joins
 - Problem-solving for reporting and analytics tasks
 
 ## Topics Covered
@@ -30,9 +32,11 @@ Through these exercises, I have practiced and strengthened skills such as:
 - Basic Select Queries
 - Filtering and Sorting
 - Aggregations
-- Joins and Subqueries
+- Joins and Advanced Joins
+- Subqueries and Nested Queries
 - String Functions
 - Conditional Logic and Reporting
+- Recursive and Self-Joins
 
 ## Repository Structure
 
@@ -47,6 +51,12 @@ Examples include:
 - [station_city_names_starting_with_vowels.sql](station_city_names_starting_with_vowels.sql)
 - [binary_tree_nodes.sql](binary_tree_nodes.sql)
 - [the_report.sql](the_report.sql)
+
+## Completion Status
+
+- Total HackerRank SQL problems solved: 58
+- Advanced joins and relational logic used where appropriate
+- File names corrected for clarity and consistency
 
 ## Platform
 
