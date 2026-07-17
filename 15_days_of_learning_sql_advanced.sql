@@ -43,3 +43,6 @@ WHERE s.hacker_id =
     ) y
 )
 ORDER BY s.submission_date;
+
+--This is consisit of three separate problems divide the problem into
+--small chunks then join each solution 
