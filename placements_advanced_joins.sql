@@ -16,3 +16,5 @@ JOIN Packages P2
 ON F.Friend_ID = P2.ID
 WHERE P2.Salary > P1.Salary
 ORDER BY P2.Salary
+
+-- Basic convept is the multiple joining with same table.
